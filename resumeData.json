@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name":"Paarth Ahuja",
+    "occupation":"ML Research Assistant at UofT | Software Engineering Student at Western",
+    "description":"Looking for summer 2020 opportunities",
+    "image":"LinkedInDP.jpg",
+    "bio":"",
+    "contactmessage":"Please reach out if you have opportunities or any questions!",
+    "email": "pahuja3@uwo.ca",
+    "phone": "6478708020",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      
+     
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      
+      {
+        "name":"github",
+        "url":"http://github.com/tbakerx",
+        "className":"fa fa-github"
+      }
+      
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University of Western Ontario",
+        "degree":"Bachelors in Engineering Science",
+        "graduated":"Expected 2022",
+        "description":"Western Entrance Scholarship of Excellence (2018). Relevant Courses: Data Structures and Algorithms (3.9/4.0) and JavaScript (3.7/4.0) "
+      }
+      
+    ],
+    "work":[
+      {
+        "company":"University of Toronto",
+        "title":"Research Assistant - Machine Learning ",
+        "years":"May 2020 - Present",
+        "description":"Implemented an unsupervised NLP model that contain the mechanical strength of the Ediacaran Biota using NLTK",
+        "description1" : "Extracted the mechanical strengths from published papers and created a classification model that identifies the type of fossil based on its mechanical strength.",
+        "description3" : "Developed a data pipeline that implements both classification models in order to allow researchers to correctly identify fossils, reducing identification time by around 80 hours and increasing identification accuracy to 97%."
+      },
+      {
+        "company":"Unbunked",
+        "title":"Software Engineer Intern",
+        "years":"March 2020 - June 2020",
+        "description":"Optimized frontend codebase by increasing code reusability, improved loading times by 37% and reduced MongoDB storage costs by 9.7% per month.",
+        "description1" : "Improved response times by 7% by migrating entire backend from PHP to Node.js and improving code reusability..",
+        "description3" : "Implemented a streaming platform on the MERN stack using Socket.io, optimized it reducing server costs by 12%.",
+        "description2" : "Created an instant messaging platform on the MERN stack and an NLP chatbot with recommendation abilities using NLTK.",
+        "description4" : "Led a team of developers to create an entire e-Commerce platform in only 3 days using the MERN stack."
+
+       },
+       {
+        "company":"Avoy",
+        "title":" Intern ",
+        "years":"Aug 2019 - Oct 2019",
+        "description":"Worked directly with the CEO and founder in a start-up environment with the primary goal of obtaining funds through angel investors and increasing users.",
+        "description1" : "Collaborated directly with the CEO in order to create slide decks for investors and create a revenue model.",
+        "description3" : "Networked with investors and angels in order to establish relationships with goal of obtaining funding."
+       }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"90%"
+      },
+      {
+        "name":"Java",
+        "level":"90%"
+      },
+      {
+        "name":"Python",
+        "level":"87.5%"
+      },
+      {
+        "name":"React.js",
+        "level":"70%"
+      },
+      {
+        "name":"Node.js",
+        "level":"75%"
+      },
+      {
+        "name":"Flask",
+        "level":"90%"
+      },
+      {
+        "name":"SQl",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Size.Ai",
+        "category":"Congested Scene Recognition (CSRNet) published in 2018 through Cornell University.Deployed the model on a Flask server with an 87.4% accuracy. ",
+        "image":"Capture.JPG",
+        "url":" https://app3-qrhrzckmpq-ue.a.run.app"
+      }
+      
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
