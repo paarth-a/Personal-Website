@@ -14,7 +14,7 @@
       "state":"(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "https://paarth-a.github.io/Personal-Website/",
+    "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       
@@ -108,7 +108,7 @@
     "projects": [
       {
         "title":"Size.Ai",
-        "category":"Congested Scene Recognition (CSRNet) published in 2018 through Cornell University.Deployed the model on a Flask server with an 87.4% accuracy. ",
+        "category":"Congested Scene Recognition (CSRNet) published in 2018 through Cornell University.Deployed the model on a Flask server with an 87.4% accuracy. (Link)",
         "image":"Capture.JPG",
         "url":" https://app3-qrhrzckmpq-ue.a.run.app"
       }
