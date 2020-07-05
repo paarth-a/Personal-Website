@@ -3,7 +3,7 @@
     "name":"Paarth Ahuja",
     "occupation":"ML Research Assistant at UofT | Software Engineering Student at Western",
     "description":"Looking for summer 2020 opportunities",
-    "image":"LinkedInDP.jpg",
+    "image":"profilepic.jpg",
     "bio":"",
     "contactmessage":"Please reach out if you have opportunities or any questions!",
     "email": "pahuja3@uwo.ca",
@@ -34,11 +34,11 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"University of Western Ontario",
-        "degree":"Bachelors in Engineering Science",
+        "degree":"Bachelors in Engineering Science - Software Engineering ",
         "graduated":"Expected 2022",
         "description":"Western Entrance Scholarship of Excellence (2018). Relevant Courses: Data Structures and Algorithms (3.9/4.0) and JavaScript (3.7/4.0) "
       }
@@ -84,7 +84,7 @@
       },
       {
         "name":"Python",
-        "level":"87.5%"
+        "level":"90%"
       },
       {
         "name":"React.js",
