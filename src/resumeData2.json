@@ -15,7 +15,7 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "https://paarth-a.github.io/Personal-Website/",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"https://s3.us-east-1.amazonaws.com/attachments.angel.co/4750429-e4d36dc835efbcfe72159e71dcb66589.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJS6W3HGZGRJIRBTA%2F20200705%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200705T193020Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a2ad9c4cf8f48797d3c9d340dd888e6cdd84a20f1ee9fb364e1ba90fe05ffa35",
     "social":[
       
      
@@ -40,7 +40,7 @@
         "school":"University of Western Ontario",
         "degree":"Bachelors in Engineering Science - Software Engineering ",
         "graduated":"Expected 2022",
-        "description":"Western Entrance Scholarship of Excellence (2018). Relevant Courses: Data Structures and Algorithms (3.9/4.0) and JavaScript (3.7/4.0) "
+        "description":"Western Entrance Scholarship of Excellence (2018). Courses: : Machine Learning – Stanford, Data Science & Angular.js – John Hopkins, and React.js – USTHK "
       }
       
     ],
